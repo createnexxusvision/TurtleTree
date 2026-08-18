@@ -1,24 +1,22 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub](https://img.shields.io/badge/GitHub-createnexxusvision-181717?logo=github&style=flat-square)](https://github.com/createnexxusvision)
+[![MyMLH](https://img.shields.io/badge/MyMLH-createnexxusvision-FF6B6B?style=flat-square)](https://my.mlh.io/u/createnexxusvision)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hola!, I'm TurtleTree. Founder of NextPlay Nexus and aspiring Full Stack Blockchain Developer. My current interests revolve around AI Agents, blockchain, web3, smart contracts and using these technologies to create products athletes can use to navigate NIL, connect directly to fans, and keep their IP throughout the process.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Houston, TX
+- 🎓 Education: YouTube University
+- 📅 Hacking Since: 2025
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 NILPOC — Smart Contracts that are athlete-first in navigating the NIL marketplace, revenue-sharing, mirco-NIL deals. Solidity — github.com/createnexxusvision/NILPOC
+- 🛠️ NextPlay Nexus Ecosystem — An AI-Agent-first NIL player development ecosystem. Java/TypeScript — github.com/createnexxusvision/nextplay-nexus
+- 🤖 Lovable Nexus Demo — Demo of NextPlay Nexus player development curriculum and activity worksheet in a interactive self-pace sport video game format. TypreScript — github.com/createnexxusvision/lovablenexusBridge
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Solidity, Python, Rust, Compact, JavaScript, TypeScript, 
+- 🔭 Focus: Full-stack development, blockchain, smart contract, AI Agents, cloud, product prototyping
+- ❤️ Interests: Cycling, Yoga, Handpan Drum, Creative Artistic Expression
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
